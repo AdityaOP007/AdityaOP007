@@ -15,7 +15,6 @@
 
 <h2>👨‍💻 About Me</h2>
 <ul>
-  <li>🔭 Currently working on <b>Predictive Intelligence for Renewable Power Siting</b></li>
   <li>🌱 Learning <b>DevOps, System Design & Open Source Workflows</b></li>
   <li>💡 Interested in <b>Open Source, Scalable Systems, and Web Platforms</b></li>
   <li>🤝 Actively looking to contribute to <b>real-world open source projects</b></li>
@@ -71,12 +70,7 @@
 
 <h2>🚀 Featured Projects</h2>
 <ul>
-  <li>
-    🔹 <b>Predictive Intelligence for Renewable Power Siting</b><br/>
-    AI-based site recommendation system<br/>
-    Interactive maps + analytics dashboard
-  </li>
-  <br/>
+
   <li>
     🔹 <b>Full Stack Web Applications</b><br/>
     Authentication systems<br/>
