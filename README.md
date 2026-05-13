@@ -1,115 +1,224 @@
 <h1 align="center">Hi 👋, I'm Aditya Prakash Jha</h1>
-<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer • DevOps Enthusiast • Open Source Contributor
+</h3>
 
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Web+Apps;DevOps+Learner;Future+GSoC+Contributor+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Open+Source+Contributor;DevOps+Enthusiast;Building+Scalable+Web+Applications;Learning+System+Design+%26+Cloud;Future+GSoC+Contributor+🚀" />
 </p>
 
-<!-- Banner GIF -->
+<!-- Banner -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
 
-<hr/>
+---
 
-<h2>👨‍💻 About Me</h2>
-<ul>
-  <li>🌱 Learning <b>DevOps, System Design & Open Source Workflows</b></li>
-  <li>💡 Interested in <b>Open Source, Scalable Systems, and Web Platforms</b></li>
-  <li>🤝 Actively looking to contribute to <b>real-world open source projects</b></li>
-  <li>🎯 Goal: Contribute to <b>GSoC & impactful OSS organizations</b></li>
-  <li>📫 Reach me at: 
-    <a href="mailto:adityaprakashjha321@gmail.com">adityaprakashjha321@gmail.com</a>
-  </li>
-</ul>
+# 💫 About Me
 
-<hr/>
+💻 Passionate Full Stack Developer with strong interest in scalable web applications, backend systems, and modern cloud-native development.
 
-<h2>🌐 Connect with Me</h2>
-<p>
+🚀 Currently exploring:
+- Open Source Contributions
+- DevOps & CI/CD
+- System Design
+- Cloud & Containerization
+- Backend Architecture
+
+🌱 I enjoy working on:
+- Full Stack Web Applications
+- REST APIs & Authentication Systems
+- Dashboard & Admin Platforms
+- Real-world Open Source Projects
+
+🎯 Current Goals:
+- Become a consistent Open Source Contributor
+- Contribute to impactful OSS organizations
+- Prepare for GSoC & major developer programs
+- Build production-ready scalable projects
+
+⚡ Fun Fact:
+I started my open source journey recently and actively contribute daily while continuously learning modern development workflows.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/aditya-prakash-jha-a991202b9/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+
+  <a href="mailto:adityaprakashjha321@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+
+  <a href="https://github.com/AdityaOP007">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
 </p>
 
-<hr/>
+---
 
-<h2>🛠️ Tech Stack</h2>
+# 🛠️ Tech Stack
 
-<h3>💻 Languages</h3>
+## 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
 </p>
 
-<h3>🌐 Web Development</h3>
+---
+
+## 🌐 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
 
-<h3>🗄️ Databases</h3>
+### Frontend Skills
+- Responsive UI Development
+- Component-Based Architecture
+- State Management
+- REST API Integration
+- Dashboard Interfaces
+- Modern UI/UX Practices
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### Backend Skills
+- REST API Development
+- Authentication & Authorization
+- CRUD Applications
+- Middleware Handling
+- Server-side Logic
+- API Testing & Debugging
+
+---
+
+## 🗄️ Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-<h3>⚙️ Tools & Platforms</h3>
+### Database Skills
+- Database Design
+- CRUD Operations
+- Query Optimization Basics
+- Relational & NoSQL Databases
+
+---
+
+# ☁️ DevOps & Cloud
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,docker,linux,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git,bash" />
 </p>
 
-<hr/>
+### DevOps Skills
+- Docker Basics
+- CI/CD Workflows
+- GitHub Actions
+- Linux Environment
+- Git & Version Control
+- Deployment Workflows
 
-<h2>🚀 Open Source Contributions</h2>
-<ul>
-  <li>🔹 Contributing to open source projects on GitHub</li>
-  <li>🔹 Fixing bugs, improving documentation, and adding features</li>
-  <li>🔹 Exploring beginner-friendly issues & real-world codebases</li>
-</ul>
+---
 
-<hr/>
+# 🚀 Open Source Journey
 
-<h2>🚀 Featured Projects</h2>
-<ul>
+## 🌟 Current Open Source Activities
 
-  <li>
-    🔹 <b>Full Stack Web Applications</b><br/>
-    Authentication systems<br/>
-    REST APIs & dashboards
-  </li>
-</ul>
+- Contributing to real-world GitHub repositories
+- Fixing bugs and improving existing systems
+- Exploring large-scale production codebases
+- Working on UI fixes, validations, and backend improvements
+- Learning collaborative development workflows
 
-<hr/>
+## 📌 Areas of Contribution
 
-<h2>📊 GitHub Stats</h2>
+✅ Bug Fixes  
+✅ UI/UX Improvements  
+✅ Documentation Improvements  
+✅ Backend Validation Fixes  
+✅ Open Source Discussions & Issues  
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Full Stack Web Applications
+- Authentication Systems
+- Admin Dashboards
+- REST APIs
+- Responsive Frontend Interfaces
+
+## 🔹 Predictive Intelligence for Renewable Power Siting
+AI-powered platform focused on:
+- Renewable resource analysis
+- Interactive mapping
+- Smart site recommendations
+- Data visualization dashboards
+
+---
+
+# 📚 Currently Learning
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaop007&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaop007&theme=tokyonight" />
+- Advanced DevOps
+- Kubernetes Basics
+- Cloud Infrastructure
+- System Design
+- Scalable Backend Architecture
+- Open Source Collaboration
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaop007&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaop007&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaop007&theme=tokyonight&hide_border=true" />
 </p>
 
-<hr/>
-
-<h2>🏆 GitHub Achievements</h2>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaop007&theme=tokyonight&no-frame=true&row=1&column=6" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaop007&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<hr/>
+---
 
-<h2>📈 Contribution Graph</h2>
-<p>
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaop007&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaop007&theme=tokyo-night" />
 </p>
 
-<hr/>
+---
 
-<h2>👀 Profile Views</h2>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=adityaop007&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+# ⚡ Development Workflow
+
+```bash
+Code → Build → Test → Debug → Deploy → Contribute 🚀
