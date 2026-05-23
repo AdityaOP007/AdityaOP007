@@ -73,7 +73,6 @@
 ## Predictive Intelligence for Renewable Power Siting
 
 AI-powered platform for:
-- Renewable resource analysis
 - Smart site recommendations
 - Interactive mapping
 - Data visualization dashboards
