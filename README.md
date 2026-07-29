@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Open Source Contributor • DevOps Enthusiast • AI Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Software+that+Matters;Open+Source+Contributor;FastAPI+%7C+React+%7C+Node.js+%7C+DevOps;LLVM+Contributor;3x+Merged+Juspay+NeuroLink+PRs;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Software+that+Matters;Open+Source+Contributor;FastAPI+%7C+React+%7C+Node.js+%7C+DevOps;3x+Merged+Juspay+NeuroLink+PRs;Always+Learning+Something+New" />
 
 <br>
 
