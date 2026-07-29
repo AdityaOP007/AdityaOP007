@@ -502,8 +502,6 @@ Open Source Contribution 🚀
 
 ✨ Open Source Contributor
 
-✨ LLVM Contributor
-
 ✨ 3 Merged PRs in Juspay NeuroLink
 
 ✨ FastAPI & React Developer
