@@ -73,12 +73,4 @@ Passionate about building scalable applications, AI-powered tools, and contribut
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<!-- Streak Stats -->
-<!-- Top Languages -->
-
-</div>
